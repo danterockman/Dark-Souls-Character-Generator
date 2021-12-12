@@ -4,6 +4,10 @@ Firts to all, I'm completely new to GitHub and to coding and Godot in general so
 A simple program make with Godot and written in GDScript to help varying your playstyle. With weapon, armor, spell and even backstory randomizer!
 
 
+WHY DID I MAKE THIS:
+I know there's other ways to do the same thing, like MugenMonkey for example, but each one has something that bothers me and lacks features that I felt would make it better for me. MugenMonkey's randomizer is just... too random and gives you too many things no matter the attributes. And the one in ScenarioGenerator is too barebones. Those are the ones that come to my head right now.
+
+
 HOW TO USE:
 1. BE SURE TO HAVE THE .EXE AND THE .PCK FILES IN THE SAME FOLDER. I'm gonna try to make the .pck unnecesary in the future.
 2. While on the program, you just need to check the options you want and click "Randomize".
