@@ -5,13 +5,15 @@ A simple program make with Godot and written in GDScript to help varying your pl
 
 
 WHY DID I MAKE THIS:
+
 I know there's other ways to do the same thing, like MugenMonkey for example, but each one has something that bothers me and lacks features that I felt would make it better for me. MugenMonkey's randomizer is just... too random and gives you too many things no matter the attributes. And the one in ScenarioGenerator is too barebones. Those are the ones that come to my head right now.
 
 
 HOW TO USE:
-1. BE SURE TO HAVE THE .EXE AND THE .PCK FILES IN THE SAME FOLDER. I'm gonna try to make the .pck unnecesary in the future.
-2. While on the program, you just need to check the options you want and click "Randomize".
-3. You can also get a random backstory with the "Generate Backstory" button, although there are only ten right now.
+1. You only need the content of the folder "Dark Souls Character Generator", the rest is the Godot project. Be sure to have the .exe and the .pck files in the same folder.
+2. Run the .exe inside "Dark Souls Character Generator".
+3. While on the program, you just need to check the options you want and click "Randomize".
+4. You can also get a random backstory with the "Generate Backstory" button, although there are only ten right now.
 
 
 OPTION DESCRIPTIONS:
