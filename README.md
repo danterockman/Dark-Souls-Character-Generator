@@ -1,5 +1,7 @@
+Firts to all, I'm completely new to GitHub and to coding and Godot in general so
+
 # Dark-Souls-Character-Generator
-A simple program to help varying your playstyle. With weapon, armor, spell and even backstory randomizer!
+A simple program make with Godot and written in GDScript to help varying your playstyle. With weapon, armor, spell and even backstory randomizer!
 
 
 HOW TO USE:
@@ -38,7 +40,9 @@ FEATURES I WANT TO ADD:
 3. Automatically calculating the skill points you need for every item or spell. Kinda like MugenMonkey but better.
 4. Improving the UI and the user experience.
 5. Include way more backstories for characters.
-6. Anything else that people might suggest, although I'm not planning on working too much on this project.
+6. Make the .pck unnecesary to run the app. It is needed now because RCEDIT won't let me have an icon without it.
+7. The code is a mess, it's more than 3500 lines and I'm sure it can be better. I might try to clean it up and make it more efficient, but for now I'm happy because it's the first piece of software that I wrote all by myself, and then finish and distribute.
+8. Anything else that people might suggest, although I'm not planning on working too much on this project, so feel free to modify it as you want it too.
 
 
 
