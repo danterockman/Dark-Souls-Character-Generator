@@ -3,6 +3,7 @@ First of all, I'm completely new to GitHub and to coding and Godot in general so
 # Dark-Souls-Character-Generator
 A simple program made with Godot and written in GDScript to help varying your playstyle. With weapon, armor, spell and even backstory randomizer!
 
+You can try on your browser here: https://danterockmanx.itch.io/dscg
 
 WHY DID I MAKE THIS:
 
@@ -12,7 +13,7 @@ I know there's other ways to do the same thing, like MugenMonkey for example, bu
 HOW TO USE:
 1. You need Godot to run the project.
 2. While on the program, you just need to check the options you want and click "Randomize".
-4. You can also get a random backstory with the "Generate Backstory" button, although there are only ten right now.
+3. You can also get a random backstory with the "Generate Backstory" button, although there are only ten right now.
 
 
 OPTION DESCRIPTIONS:
