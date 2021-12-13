@@ -1,7 +1,7 @@
 First of all, I'm completely new to GitHub and to coding and Godot in general so feel free to point any error you see.
 
 # Dark-Souls-Character-Generator
-A simple program make with Godot and written in GDScript to help varying your playstyle. With weapon, armor, spell and even backstory randomizer!
+A simple program made with Godot and written in GDScript to help varying your playstyle. With weapon, armor, spell and even backstory randomizer!
 
 
 WHY DID I MAKE THIS:
