@@ -46,8 +46,10 @@ FEATURES I WANT TO ADD:
 4. Improving the UI and the user experience.
 5. Include way more backstories for characters.
 6. Make the .pck unnecesary to run the app. It is needed now because RCEDIT won't let me have an icon without it.
-7. The code is a mess, it's more than 3500 lines and I'm sure it can be better. I might try to clean it up and make it more efficient, but for now I'm happy because it's the first piece of software that I wrote all by myself, and then finish and distribute.
-8. Anything else that people might suggest, although I'm not planning on working too much on this project, so feel free to modify it as you want it too.
+7. Add pictures of the weapons, spells, etc whenever picked.
+8. Add the ability to choose individually what you want randomized.
+9. The code is a mess, it's more than 3500 lines and I'm sure it can be better. I might try to clean it up and make it more efficient, but for now I'm happy because it's the first piece of software that I wrote all by myself, and then finish and distribute.
+10. Anything else that people might suggest, although I'm not planning on working too much on this project, so feel free to modify it as you want it too.
 
 
 
